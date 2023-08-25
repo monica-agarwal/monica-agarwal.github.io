@@ -14,7 +14,7 @@ I am a PhD Candidate in the [Applied and Agricultural Economics Department](http
 
 I am a development economist with a focus on the economics of education. Most of my current work is on affirmative action policies in early childhood. For more on my work please see my [research](/_pages/research.md)
 
-I am on the 2023-24 job market and will be availble for interviews. 
+I am on the 2023-24 job market and will be available for interviews. 
 
 **References**
   - [Laura Schechter](https://aae.wisc.edu/faculty/lschechter/) [[Email](mailto:lschchter@wisc.edu)] (PhD Advisor)
