@@ -30,6 +30,6 @@ author_profile: true
 
 ### Selected works in progress <a name="selected-works-in-progress"></a>
 <!-- a comment -->
-- "Spatial Inequality and School Choice Mechanisms" - with Md Moshi Ul Alam, Chao Fu, YingHua He
+- **Spatial Inequality and School Choice Mechanisms** - with Md Moshi Ul Alam, Chao Fu, YingHua He
 
 ---
