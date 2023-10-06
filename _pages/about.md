@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD Candidate in the [Agricultural and Applied Economics Department](https://aae.wisc.edu) at the [University of Wisconsin-Madison](https://www.wisc.edu). 
 
-I work on topics in development economics and the economics of education. Most of my current work focuses on affirmative action policies in childhood and their impact on children's educational outcomes.
+I work on topics in applied microeconomics, development economics and the economics of education. Most of my current work focuses on affirmative action policies in childhood and their impact on children's educational outcomes.
 
 <!--I am a development economist with a focus on the economics of education. Most of my current work is on affirmative action policies in early childhood. For more on my work please see my [research](/_pages/research.md).-->
 
