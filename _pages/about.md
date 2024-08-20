@@ -17,6 +17,6 @@ I work on topics in economics of education, applied microeconomics, and developm
 
 
 **References**
-  - [Laura Schechter](https://aae.wisc.edu/faculty/lschechter/) [[Email](mailto:lschechter@wisc.edu)] (PhD Advisor)
+  - [Laura Schechter](https://econ.wisc.edu/staff/schechter-laura/) [[Email](mailto:lschechter@wisc.edu)] (PhD Advisor)
   - [Jeffrey Smith](https://econ.wisc.edu/staff/smith-jeffrey/) [[Email](mailto:econjeff@ssc.wisc.edu)]
   - [Priya Mukherjee](https://aae.wisc.edu/faculty/pmukherjee7/) [[Email](mailto:priya.mukherjee@wisc.edu)]
