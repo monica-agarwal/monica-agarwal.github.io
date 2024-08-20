@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in the [Agricultural and Applied Economics Department](https://aae.wisc.edu) at the [University of Wisconsin-Madison](https://www.wisc.edu). I will be joining Northwestern University's Institute for Policy Research as a postdoc starting Fall 2024! 
-
-I work on topics in applied microeconomics, development economics and the economics of education. Most of my current work focuses on affirmative action policies in childhood and their impact on children's educational outcomes.
+I am a Postdoctoral Fellow at the Institute for Policy Research at Northwestern University. I obtained my PhD from the Department of [Ag and Applied Economics](https://aae.wisc.edu) at the [University of Wisconsin-Madison](https://www.wisc.edu). I work on topics in applied microeconomics, economics of education and development economics. Please check out my CV and Reseach for more info!  
 
 <!--I am a development economist with a focus on the economics of education. Most of my current work is on affirmative action policies in early childhood. For more on my work please see my [research](/_pages/research.md).-->
 
