@@ -14,6 +14,9 @@ I work on topics in economics of education, applied microeconomics, and developm
 
 <!--I am a development economist with a focus on the economics of education. Most of my current work is on affirmative action policies in early childhood. For more on my work please see my [research](/_pages/research.md).-->
 
+*Upcoming presentations:* 
+  - NEUDC 2024, Boston, MA.
+  - ACEGD 2024, Indian Statistical Institute, Delhi.
 
 
 **References**
