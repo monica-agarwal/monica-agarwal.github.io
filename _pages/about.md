@@ -14,11 +14,10 @@ I work on topics in economics of education, applied microeconomics, and developm
 
 <!--I am a development economist with a focus on the economics of education. Most of my current work is on affirmative action policies in early childhood. For more on my work please see my [research](/_pages/research.md).-->
 
-*Upcoming presentations:* 
-  - WASHEcon 2025, Oberlin College, OH.
 
 
 **References**
   - [Laura Schechter](https://econ.wisc.edu/staff/schechter-laura/) [[Email](mailto:lschechter@wisc.edu)] (PhD Advisor)
   - [Jeffrey Smith](https://econ.wisc.edu/staff/smith-jeffrey/) [[Email](mailto:econjeff@ssc.wisc.edu)]
   - [Priya Mukherjee](https://aae.wisc.edu/faculty/pmukherjee7/) [[Email](mailto:priya.mukherjee@wisc.edu)]
+  - [Diane Whitmore Schanzenbach](https://www.dianeschanzenbach.com/) [[Email](mailto:diane.schanzenbach@georgetown.edu)]
