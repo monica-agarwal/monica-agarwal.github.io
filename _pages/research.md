@@ -37,4 +37,7 @@ of siblings of policy applicants. The RTE mandates all private schools to reserv
 <!-- a comment -->
 - **Spatial Inequality and School Choice Mechanisms** - with [Md Moshi Ul Alam](https://moshialam.github.io), [Chao Fu](https://users.ssc.wisc.edu/~cfu/), [YingHua He](https://sites.google.com/site/yinghuahe/)
 
+
+- **The Early Childhood Care and Education Workforce** - with [Diane Whitmore Schanzenbach](https://www.dianeschanzenbach.com)
+
 ---
