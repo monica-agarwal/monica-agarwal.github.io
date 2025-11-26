@@ -40,5 +40,5 @@ of siblings of policy applicants. The RTE mandates all private schools to reserv
 
 - **The Early Childhood Care and Education Workforce** - with [Diane Whitmore Schanzenbach](https://www.dianeschanzenbach.com)
 
-- ** The Impact of Chicago’s Universal Pre-K Expansion on Children’s Test Scores** - with [Diane Whitmore Schanzenbach](https://www.dianeschanzenbach.com) 
+- **The Impact of Chicago’s Universal Pre-K Expansion on Children’s Test Scores** - with [Diane Whitmore Schanzenbach](https://www.dianeschanzenbach.com) 
 ---
