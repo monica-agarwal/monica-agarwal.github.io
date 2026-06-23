@@ -1,7 +1,7 @@
 ---
 title: "Monica Agarwal"
 about:
-  template: jolla
+  template: solana
   image: images/headshot_monica.jpg
   image-shape: round
   links:
