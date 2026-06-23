@@ -1,9 +1,10 @@
 ---
 title: "Monica Agarwal"
 about:
-  template: solana
+  template: trestles
   image: images/headshot_monica.jpg
-  image-shape: round
+  image-shape: rectangle
+  image-width: 200px
   links:
     - icon: envelope
       text: Email

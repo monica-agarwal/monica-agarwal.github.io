@@ -161,16 +161,6 @@ a:hover {
   .references-grid { grid-template-columns: 1fr; }
 }
 
-/* --- Mobile photo fix -------------------------------------- */
-@media (max-width: 768px) {
-  .quarto-about-solana .about-image img {
-    width: 100% !important;
-    max-width: 250px;
-    height: auto !important;
-    object-fit: cover;
-    object-position: top center;
-  }
-}
 
 /* --- Footer ------------------------------------------------ */
 .nav-footer {
