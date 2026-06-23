@@ -2,20 +2,9 @@
 title: "Monica Agarwal"
 about:
   template: trestles
-  image: images/headshot_monica.jpg
-  image-shape: rectangle
+  image: images/headshot_monica_square.jpeg
+  image-shape: round
   image-width: 200px
-  links:
-    - icon: envelope
-      text: Email
-      href: mailto:monica.agarwal@northwestern.edu
-    - icon: file-earmark-pdf
-      text: CV
-      href: papers/CV_Monica_Agarwal.pdf
-      target: _blank
-    - text: SSRN
-      href: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3741985
-      target: _blank
 ---
 
 Welcome to my website. I am a Postdoctoral Fellow at the [Institute for Policy Research](https://www.ipr.northwestern.edu), [Northwestern University](https://www.northwestern.edu).
@@ -25,6 +14,9 @@ I work on topics in **economics of education**, **applied microeconomics**, and 
 <!-- I obtained my PhD from the [Department of Agricultural and Applied Economics](https://aae.wisc.edu) at the [University of Wisconsin-Madison](https://www.wisc.edu). -->
 
 <!-- I am on the **2025–26 job market**. Please see my [Research](research.qmd) and [CV](cv.qmd) for more information. -->
+
+[✉ Email](mailto:monica.agarwal@northwestern.edu){.btn .btn-outline-primary .btn-sm}
+[📄 CV](papers/CV_Monica_Agarwal.pdf){.btn .btn-outline-primary .btn-sm target="_blank"}
 
 <hr class="section-rule">
 
