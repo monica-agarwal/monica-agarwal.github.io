@@ -1,0 +1,13 @@
+---
+title: "References"
+---
+
+:::: {.references-grid}
+[Laura Schechter](https://econ.wisc.edu/staff/schechter-laura/) (PhD Advisor) — [lschechter@wisc.edu](mailto:lschechter@wisc.edu)
+
+[Jeffrey Smith](https://econ.wisc.edu/staff/smith-jeffrey/) — [econjeff@ssc.wisc.edu](mailto:econjeff@ssc.wisc.edu)
+
+[Priya Mukherjee](https://aae.wisc.edu/faculty/pmukherjee7/) — [priya.mukherjee@wisc.edu](mailto:priya.mukherjee@wisc.edu)
+
+[Diane Whitmore Schanzenbach](https://www.dianeschanzenbach.com/) — [diane.schanzenbach@georgetown.edu](mailto:diane.schanzenbach@georgetown.edu)
+::::

@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Monica Agarwal"
+  favicon: images/profile.png
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "References"
+        href: references.qmd
+    right:
+      - icon: envelope
+        href: "mailto:monica.agarwal@northwestern.edu"
+        aria-label: Email
+  page-footer:
+    center: "© 2025 Monica Agarwal"
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
+    link-external-newwindow: true

@@ -1,0 +1,89 @@
+## Working Papers
+
+```{=html}
+<div class="paper-entry">
+  <div class="paper-title">
+    Affirmative Action at School Entry: School Quality and Learning
+  </div>
+  <div class="paper-meta">
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4894456" target="_blank">[SSRN ungated]</a>
+    &nbsp;<span class="badge-jmp">[Job Market Paper]</span>
+  </div>
+  <div class="badge-rr">R&amp;R at <em>The Economic Journal</em></div>
+  <button class="abstract-btn" data-bs-toggle="modal" data-bs-target="#modal-jmp">Abstract</button>
+</div>
+
+<div class="modal fade" id="modal-jmp" tabindex="-1" aria-labelledby="modal-jmp-label" aria-hidden="true">
+  <div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="modal-jmp-label">Affirmative Action at School Entry: School Quality and Learning</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        I provide among the first causal evidence on the impact of one of the world's largest affirmative action program on entry-level primary education on student achievement. India's Right to Education Act (RTE) requires private schools to reserve 25% of entry-level seats for disadvantaged children. Using lottery-based allocation of these seats and combining administrative data with original survey data from a large Indian state, I estimate the causal effects of enrolling through the policy. I find that RTE increases school enrollment and English test scores by 0.18 SD. These gains operate through RTE improving access to better quality schools. Effects are highly heterogeneous within the private sector: beneficiaries attending elite private schools outperform those at budget private schools by 0.48-0.7SD in English. I make three key contributions: First, I demonstrate the effectiveness of affirmative action targeting early education when most such policies focus on higher education. Second, I provide causal evidence of how quality variation within the private sector affects children's outcomes, documenting that private school premium is not homogeneous. Third, I find that higher-quality private schools adapt better to educational disruptions in remote learning contexts. As outcomes are measured during remote instruction, I provide evidence that the variation in school quality over a 5-year period beyond remote instruction is primarily explained by school fixed effects and hence quality is persistent over time. The results imply that school-entry affirmative action can improve learning when it shifts children into persistently higher-quality schools, and that average private school effects mask large within-sector heterogeneity.
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="paper-entry">
+  <div class="paper-title">
+    The Unintended Benefits of Women's Empowerment on Household Sanitation
+  </div>
+  <div class="paper-meta">
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4992568" target="_blank">[SSRN ungated]</a>
+    &nbsp;with <a href="https://moshialam.github.io" target="_blank">Md Moshi Ul Alam</a>
+  </div>
+  <div class="badge-rr">R&amp;R at <em>Journal of Human Resources</em> (2nd round, resubmitted)</div>
+  <button class="abstract-btn" data-bs-toggle="modal" data-bs-target="#modal-sanitation">Abstract</button>
+  <p style="margin-top:0.4rem;font-size:0.88rem;font-style:italic;">Previously circulated as "Female Inheritance Rights and Household Sanitation"</p>
+</div>
+
+<div class="modal fade" id="modal-sanitation" tabindex="-1" aria-labelledby="modal-sanitation-label" aria-hidden="true">
+  <div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="modal-sanitation-label">The Unintended Benefits of Women's Empowerment on Household Sanitation</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        Existing research shows that women benefit more from private toilets, but misperceptions about the net benefits from toilets and lack of women's decision-making power can hinder toilet adoption by households. In this paper, we explore a novel link between household sanitation and policies that empower women. We show that a policy aimed at improving women's property inheritance rights in India led to an increase in toilet adoption in the households of treated cohorts by at least 10%. Prior literature shows mixed evidence on whether the policy increased women's inheritance, but shows that the policy had significant indirect effects, such as improving women's education. To generate empirical tests for the mechanisms driving our main results, we build a discrete choice model with idiosyncratic household preference shocks that produces policy-relevant complementarity between women's education and decision-making power in adoption of a household public good valued more by women. Using a heterogeneity-robust event-study design, we find that, consistent with our model, the increase in toilet adoption is concentrated in states where the policy boosted women's education — plausibly reducing misperceptions about the benefits of toilets — and increased women's decision-making power. Our findings highlight that policies empowering women can yield unintended benefits beyond their original scope.
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="paper-entry">
+  <div class="paper-title">
+    Parental Investments and Sibling Spillover Effects of Affirmative Action Policies: Evidence from India
+  </div>
+  <div class="paper-meta">Draft coming soon</div>
+  <button class="abstract-btn" data-bs-toggle="modal" data-bs-target="#modal-siblings">Abstract</button>
+</div>
+
+<div class="modal fade" id="modal-siblings" tabindex="-1" aria-labelledby="modal-siblings-label" aria-hidden="true">
+  <div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="modal-siblings-label">Parental Investments and Sibling Spillover Effects of Affirmative Action Policies: Evidence from India</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        This paper examines the sibling spillover effects of India's Right to Education Act (RTE) during the period of COVID-19 induced school closures, focusing on the educational outcomes of siblings of policy applicants. The RTE mandates all private schools to reserve 25% of the incoming seats in grade 1 for low socioeconomic status students. Using administrative data of households that applied under this policy and survey data on educational outcomes of applicant children and their siblings, I estimate the intent-to-treat effects (ITT) of being a sibling in a household where the applicant child won the grade 1 private school lottery. My findings indicate that younger siblings in winning households were less likely to be formally enrolled in school compared to their peers in losing households, but benefitted from increased access to remote learning resources provided by the older applicant child's private school. Additionally, there were no significant differences in parental monetary and time investments between siblings in winning and losing households. This study shows that well implemented affirmative action policies during economic hardships can act as a safety net not only for the targeted individuals, but also benefit non-targeted individuals and can mitigate long-term educational inequalities.
+      </div>
+    </div>
+  </div>
+</div>
+```
+
+## Works in Progress
+
+**Spatial Inequality and School Choice Mechanisms**
+<br>with [Md Moshi Ul Alam](https://moshialam.github.io), [Chao Fu](https://users.ssc.wisc.edu/~cfu/), [YingHua He](https://sites.google.com/site/yinghuahe/)
+
+**The Early Childhood Care and Education Workforce**
+<br>with [Diane Whitmore Schanzenbach](https://www.dianeschanzenbach.com)
+
+**The Impact of Chicago's Universal Pre-K Expansion on Children's Test Scores**
+<br>with [Diane Whitmore Schanzenbach](https://www.dianeschanzenbach.com)
