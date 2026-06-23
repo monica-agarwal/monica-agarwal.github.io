@@ -1,7 +1,7 @@
 ---
 title: "Monica Agarwal"
 about:
-  template: trestles
+  template: solana
   image: images/headshot_monica_square.jpeg
   image-shape: round
   image-width: 200px

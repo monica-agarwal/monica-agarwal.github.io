@@ -1,77 +1,24 @@
 /* ============================================================
-   Monica Agarwal — Classic Academic Theme
+   Monica Agarwal — Custom Styles
    ============================================================ */
 
 /* --- Fonts ------------------------------------------------- */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&display=swap');
 
-:root {
-  --navy:       #1B3A6B;
-  --navy-light: #2a5298;
-  --accent:     #8B0000;   /* deep red for R&R badges etc. */
-  --text:       #1c1c1c;
-  --muted:      #5a5a5a;
-  --border:     #d4d9e0;
-  --bg-light:   #f7f8fa;
-}
-
 /* --- Base -------------------------------------------------- */
 body {
   font-family: 'Lato', sans-serif;
-  color: var(--text);
   font-size: 1rem;
   line-height: 1.7;
 }
 
 h1, h2, h3, h4 {
   font-family: 'Lato', sans-serif;
-  color: var(--navy);
   font-weight: 700;
 }
 
-a {
-  color: var(--navy-light);
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
-  color: var(--navy);
-}
-
-/* --- Navbar ------------------------------------------------ */
-.navbar {
-  background-color: var(--navy) !important;
-  border-bottom: 3px solid var(--navy-light);
-  padding: 0.6rem 1rem;
-}
-.navbar-brand {
-  font-family: 'EB Garamond', Georgia, serif;
-  font-size: 1.35rem;
-  font-weight: 600;
-  color: #ffffff !important;
-  letter-spacing: 0.02em;
-}
-.navbar .nav-link {
-  color: rgba(255,255,255,0.85) !important;
-  font-size: 0.92rem;
-  font-weight: 500;
-  letter-spacing: 0.03em;
-  padding: 0.5rem 0.9rem;
-  transition: color 0.15s;
-}
-.navbar .nav-link:hover,
-.navbar .nav-link.active {
-  color: #ffffff !important;
-  background: rgba(255,255,255,0.12);
-  border-radius: 4px;
-}
-
-/* --- About / Home Layout ----------------------------------- */
-
 /* --- Section dividers -------------------------------------- */
 .section-rule {
-  border: none;
-  border-top: 2px solid var(--navy);
   margin: 2rem 0 1.2rem 0;
 }
 
@@ -79,7 +26,7 @@ a:hover {
 .paper-entry {
   margin-bottom: 1.6rem;
   padding-bottom: 1.4rem;
-  border-bottom: 1px solid var(--border);
+  border-bottom: 1px solid rgba(0,0,0,0.1);
 }
 .paper-entry:last-child {
   border-bottom: none;
@@ -89,30 +36,25 @@ a:hover {
   font-family: 'Lato', sans-serif;
   font-size: 1.08rem;
   font-weight: 400;
-  color: var(--navy);
 }
 
 .paper-meta {
   font-size: 0.88rem;
-  color: var(--muted);
+  opacity: 0.7;
   margin: 0.2rem 0 0.5rem 0;
 }
 
 .badge-jmp {
   font-size: 0.88rem;
   font-weight: 400;
-  color: var(--muted);
+  opacity: 0.6;
 }
 
 .badge-rr {
   display: inline-block;
-  font-size: 0.78rem;
+  font-size: 0.88rem;
   font-style: italic;
-  font-weight: 600;
-  color: #fff;
-  background: var(--navy);
-  border-radius: 3px;
-  padding: 2px 9px;
+  font-weight: 700;
   margin-top: 5px;
 }
 
@@ -122,9 +64,9 @@ a:hover {
   font-weight: 600;
   letter-spacing: 0.05em;
   text-transform: uppercase;
-  color: var(--navy);
+  color: var(--bs-primary);
   background: transparent;
-  border: 1.5px solid var(--navy);
+  border: 1.5px solid var(--bs-primary);
   border-radius: 3px;
   padding: 3px 12px;
   margin-top: 0.4rem;
@@ -132,7 +74,7 @@ a:hover {
   transition: background 0.15s, color 0.15s;
 }
 .abstract-btn:hover {
-  background: var(--navy);
+  background: var(--bs-primary);
   color: #fff;
 }
 
@@ -141,12 +83,10 @@ a:hover {
   font-family: 'Lato', sans-serif;
   font-size: 1rem;
   font-weight: 700;
-  color: var(--navy);
 }
 .modal-body {
   font-size: 0.92rem;
   line-height: 1.7;
-  color: var(--text);
 }
 
 /* --- References section ------------------------------------ */
@@ -159,16 +99,6 @@ a:hover {
 }
 @media (max-width: 600px) {
   .references-grid { grid-template-columns: 1fr; }
-}
-
-
-/* --- Footer ------------------------------------------------ */
-.nav-footer {
-  border-top: 1px solid var(--border);
-  padding: 1rem;
-  font-size: 0.82rem;
-  color: var(--muted);
-  text-align: center;
 }
 
 /* --- Page content width ------------------------------------ */
