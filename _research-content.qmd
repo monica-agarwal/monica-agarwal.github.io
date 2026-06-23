@@ -35,7 +35,8 @@
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4992568" target="_blank">[SSRN ungated]</a>
     &nbsp;with <a href="https://moshialam.github.io" target="_blank">Md Moshi Ul Alam</a>
   </div>
-  <div class="badge-rr">R&amp;R at <em>Journal of Human Resources</em> (2nd round, resubmitted)</div>
+  <div class="badge-rr">R&amp;R at <em>Journal of Human Resources</em></div>
+  <span class="paper-meta">[2nd round, resubmitted]</span>
   <button class="abstract-btn" data-bs-toggle="modal" data-bs-target="#modal-sanitation">Abstract</button>
   <p style="margin-top:0.4rem;font-size:0.88rem;font-style:italic;">Previously circulated as "Female Inheritance Rights and Household Sanitation"</p>
 </div>
