@@ -167,7 +167,8 @@ a:hover {
     width: 100% !important;
     max-width: 250px;
     height: auto !important;
-    object-fit: contain;
+    object-fit: cover;
+    object-position: top center;
   }
 }
 
