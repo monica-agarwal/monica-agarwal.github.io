@@ -19,7 +19,7 @@ website:
         href: references.qmd
     right:
       - icon: envelope
-        href: "mailto:monica.agarwal@northwestern.edu"
+        href: "mailto:monica.agarwal@tufts.edu"
         aria-label: Email
   page-footer:
     center: "© 2025 Monica Agarwal"
