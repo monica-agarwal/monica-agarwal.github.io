@@ -9,7 +9,7 @@ about:
 
 Welcome to my website. I am a Postdoctoral Scholar in the [Department of Economics](https://as.tufts.edu/economics) at [Tufts University](https://www.tufts.edu).
 
-I work on topics in **economics of education**, **applied microeconomics**, and **development economics**. My research focuses on how early-life policies like school-entry affirmative action, and universal pre-K shape children's educational trajectories.
+I work on topics in **economics of education**, **applied microeconomics**, and **development economics**. My research focuses on how early-life policies like school-entry affirmative action and universal pre-K shape children's educational trajectories.
 
 <!-- I obtained my PhD from the [Department of Agricultural and Applied Economics](https://aae.wisc.edu) at the [University of Wisconsin-Madison](https://www.wisc.edu). -->
 

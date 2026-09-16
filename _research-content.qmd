@@ -1,4 +1,4 @@
-## Publications
+## Publications/Accepted
 
 ```{=html}
 <div class="paper-entry">
@@ -62,7 +62,7 @@
   <div class="paper-title">
     Parental Investments and Sibling Spillover Effects of Affirmative Action Policies: Evidence from India
   </div>
-  <div class="paper-meta">Draft coming soon</div>
+  <div class="paper-meta">Draft available upon request</div>
   <button class="abstract-btn" data-bs-toggle="modal" data-bs-target="#modal-siblings">Abstract</button>
 </div>
 
@@ -81,13 +81,13 @@
 </div>
 ```
 
-## Works in Progress
-
-**The Impact of Chicago's Universal Pre-K Expansion on Children's Test Scores**
-<br>with [Terri Sabol](https://sites.northwestern.edu/terrisabol/), [Diane Whitmore Schanzenbach](https://www.dianeschanzenbach.com)
+## Research in Progress
 
 **Spatial Inequality and School Choice Mechanisms**
 <br>with [Md Moshi Ul Alam](https://moshialam.github.io), [Chao Fu](https://users.ssc.wisc.edu/~cfu/), [YingHua He](https://sites.google.com/site/yinghuahe/)
+
+**The Impact of Chicago's Universal Pre-K Expansion on Children's Test Scores**
+<br>with [Terri Sabol](https://sites.northwestern.edu/terrisabol/), [Diane Whitmore Schanzenbach](https://www.dianeschanzenbach.com)
 
 **The Early Childhood Care and Education Workforce**
 <br>with [Diane Whitmore Schanzenbach](https://www.dianeschanzenbach.com)
