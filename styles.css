@@ -5,6 +5,12 @@
 /* --- Fonts ------------------------------------------------- */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&display=swap');
 
+/* --- Accent tokens ----------------------------------------- */
+:root {
+  /* status accent: matches the accent colour used in the CV */
+  --accent-status: #003366;
+}
+
 /* --- Base -------------------------------------------------- */
 body {
   font-family: 'Lato', sans-serif;
@@ -57,6 +63,13 @@ h1, h2, h3, h4 {
   font-style: italic;
   font-weight: 400;
   margin-top: 5px;
+  color: var(--accent-status);
+}
+
+/* journal name inside the status line */
+.badge-rr em {
+  font-style: italic;
+  font-weight: 700;
 }
 
 .abstract-btn {
