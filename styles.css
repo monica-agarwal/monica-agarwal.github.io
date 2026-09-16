@@ -7,8 +7,9 @@
 
 /* --- Accent tokens ----------------------------------------- */
 :root {
-  /* status accent: matches the accent colour used in the CV */
-  --accent-status: #003366;
+  /* status accent: the CV navy lightened enough to read as colour
+     against near-black body text (#212529) */
+  --accent-status: #0059b3;
 }
 
 /* --- Base -------------------------------------------------- */
