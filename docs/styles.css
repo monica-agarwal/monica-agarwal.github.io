@@ -108,9 +108,23 @@ h1, h2, h3, h4 {
 .references-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 0.4rem 2rem;
-  margin-top: 0.5rem;
+  gap: 1.5rem 2.5rem;
+  margin-top: 0.75rem;
   font-size: 0.93rem;
+}
+.reference {
+  line-height: 1.55;
+}
+.reference em {
+  font-style: italic;
+}
+.ref-email {
+  margin-top: 0.15rem;
+}
+.ref-email i {
+  opacity: 0.65;
+  margin-right: 0.3rem;
+  font-size: 0.85em;
 }
 @media (max-width: 600px) {
   .references-grid { grid-template-columns: 1fr; }
